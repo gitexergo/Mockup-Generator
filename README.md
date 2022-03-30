@@ -7,8 +7,8 @@ The Solution
 This software does all the data entry work and automates photoshop to create mockup.
 
 Requirement
-It requires Python 3.7 or newer to run.
-It requires Photoshop CC.
+1. It requires Python 3.7 or newer to run.
+2. It requires Photoshop CC.
 
 Limitation
 I developed this software for my portfolio. Please keep in mind -
